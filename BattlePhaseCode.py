@@ -188,3 +188,5 @@ yn=int(input("\nSecond player ATTACK: "))
 yo=int(input("Second player DEFENCE: "))
 y=int(input("Second player SPEED: "))
 ini2(x,y,xn,xo,yn,yo)
+
+input('Press ENTER to exit')
