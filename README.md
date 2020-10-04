@@ -1,1 +1,1 @@
-# CodeMe
+Python tidbits.
